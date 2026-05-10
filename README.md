@@ -1,5 +1,7 @@
 # Hackintosh - Gigabyte B550M DS3H [rev 1.7], AMD Ryzen 7 5700X [8c/16t], 4x8Gb DDR4, AMD Radeon RX 6600 XT and macOS Tahoe 26.4.1 + RPCore 1.0.1
 
+<img width="1988" height="1186" alt="Portfolio" src="https://github.com/user-attachments/assets/690d9410-806d-4d67-832b-361edb9ee78c" />
+
 # Basic Information
 
 **macOS**: macOS Tahoe (26.4.1)
